@@ -8,3 +8,6 @@ Well, it’s just another content markup language. Except that instead of being 
 And so, authoring simplicity is one of Markdown’s main selling points. Once you get into it, writing Markdown is way simpler and faster than using any WYSIWYG (What You See Is What You Get) editor like Microsoft Word, or more professional authoring tools like OxygenXML or MadCap Flare.
 
 In this sense, it’s a technical writer’s dream: forget formatting woes and focus on the content itself, without going through the hassle of writing pure HTML.
+
+
+new new 
